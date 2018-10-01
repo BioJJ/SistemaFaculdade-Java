@@ -18,7 +18,7 @@ public abstract class Telas {
 		
 		
 		janela.setTitle(titulo);
-		janela.setSize(370, 350);
+		janela.setSize(370, 355);
 		janela.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
 		janela.setLocation(500,100);
 		
