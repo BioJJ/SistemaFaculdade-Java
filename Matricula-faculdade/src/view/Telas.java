@@ -27,12 +27,12 @@ public abstract class Telas {
 
 	    //Icon IMG_BV = new ImageIcon(img);
 		
-       painel_fundo = new JPanel();
-       JLabel x = new JLabel(img);
-       painel_fundo.add(x);
-       painel_fundo.setSize(370, 350);
-       painel_fundo.setLocation(0, -10);
-       painel_fundo.setVisible(true);
+			painel_fundo = new JPanel();
+	       JLabel x = new JLabel(img);
+	       painel_fundo.add(x);
+	       painel_fundo.setSize(370, 350);
+	       painel_fundo.setLocation(0, -10);
+	       painel_fundo.setVisible(true);
        
        
       
